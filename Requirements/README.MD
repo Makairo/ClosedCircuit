@@ -50,5 +50,5 @@ Requirement List:<br>
  <br>
 3. The system will be developed with C#, SQL, and ASP.NET<br>   
    - i. System will be hosted on Github, Azure, and have a client side application.<br>
-   <br>
-   <br>
+     - 
+
