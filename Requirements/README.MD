@@ -42,8 +42,8 @@ Requirement List:<br>
   -ii. Given request by user, will display scoreboard to users.<br>
       - a. Can filter by self, or search username.<br>
   -iii. Game will perform game logic each round the user plays.<br>
-      - a. Enemy pathing<br>
-      - b. Tower AI and logic<br>
+      - a. Enemy pathing.<br>
+      - b. Tower AI and logic.<br>
       - c. Game logic with rounds and a "Game Over" and "Game Complete" state.<br>
   - iv. Will store general round information in a database.<br>
       - a. Enemy spawns, wave presets, point amounts on wave completion.<br>
