@@ -25,8 +25,8 @@ Requirement List:<br>
 <br>
 1. The system will prompt the user with the game screen upon loading.<br>
  - i. The user will have an option to login.<br>
-   - a. If the user does not have a login, the user will be able to create one.<br>
-   - b. If the user has a login, will have to option for the game to "remember" them.<br>
+      - a. If the user does not have a login, the user will be able to create one.<br>
+      - b. If the user has a login, will have to option for the game to "remember" them.<br>
  - ii. The user will have an option to view the leaderboard.<br>
    - a. If logged in, the user can filter by their entries.<br>
    -b. If logged in or not, can filter list by user.<br>
