@@ -7,3 +7,4 @@ Given an existing user, will be able to view the leaderboard.
 Given an existing user, will be able to view all of their personal scores.
 Given an existing user, will be able to register a score on the leaderboard upon completing the game.
 Given any user, will be able to play the game until completion.
+Given any user, will be able to lose the game.
