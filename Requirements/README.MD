@@ -5,6 +5,7 @@ As a player, I want a game that I can stop / pause at any time and resume later.
 As a player, I want a game that I can play for as long / short as I want too.<br>
 
 <br><br>
+USE CASES <br>
 Given a new user, will be able to launch and start the game.<br>
 Given a new user, will be able to access the leaderboard to view.<br>
 Given a new user, will be able to create a username and login.<br>
