@@ -8,4 +8,4 @@ As a player, I want a game that I can play for as long / short as I want too.<br
 <br>
 
 UML (USE CASE DIAGRAM)
-![UML DIAGRAM](Use-Case_Diagram.jpeg)
+![UML DIAGRAM](Use-CaseDiagram.jpeg)
