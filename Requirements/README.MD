@@ -24,15 +24,15 @@ UML (USE CASE DIAGRAM)
 Requirement List:<br>
 <br>
 1. The system will prompt the user with the game screen upon loading.<br>
- - i. The user will have an option to login.<br>
-      - a. If the user does not have a login, the user will be able to create one.<br>
-      - b. If the user has a login, will have to option for the game to "remember" them.<br>
- - ii. The user will have an option to view the leaderboard.<br>
-   - a. If logged in, the user can filter by their entries.<br>
-   -b. If logged in or not, can filter list by user.<br>
-  -iii. The user will have an option to start the game.<br>
-   - a. User can place towers, and start waves manually.<br>
-   - b. User can play to wave 50 and end, or go into endless mode.<br>
+   - i. The user will have an option to login.<br>
+         - a. If the user does not have a login, the user will be able to create one.<br>
+         - b. If the user has a login, will have to option for the game to "remember" them.<br>
+   - ii. The user will have an option to view the leaderboard.<br>
+         - a. If logged in, the user can filter by their entries.<br>
+         -b. If logged in or not, can filter list by user.<br>
+   -iii. The user will have an option to start the game.<br>
+         - a. User can place towers, and start waves manually.<br>
+         - b. User can play to wave 50 and end, or go into endless mode.<br>
  - iv. Upon completing the game the game will prompt the user to upload their score.<br>
    - a. If logged in, user can choose to upload or not.<br>
    - b. If not logged in, the user can create a login and upload, or not.<br>
