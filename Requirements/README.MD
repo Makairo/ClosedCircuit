@@ -52,3 +52,13 @@ Requirement List:<br>
 3. The system will be developed with C#, SQL, and ASP.NET<br>   
    - i. System will be hosted on Github, Azure, and have a client side application.<br>
    
+<br><br>
+
+Testing
+
+| TestID | Req ID | Test Proc | Current | Date |
+| ------ | ------ | --------- | ------- | ---- |
+| 1      |  1.1,1.2,1.3 | User login, enter, view menus | not tested |  
+|
+|
+|
