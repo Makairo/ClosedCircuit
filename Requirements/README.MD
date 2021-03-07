@@ -54,6 +54,17 @@ Requirement List:<br>
    
 <br><br>
 
+Reqs<br>
+| ReqID | Requirement | Test Method | Test ID |
+| ----- | ----------- | ----------- | ------- |
+| 1.1 | User login / auth | test | 1, 3 |
+| 1.2, 1.3 | User views correct menus on login | test | 1, 3 |
+| 1.4, 2.1 | Scores are uploaded and stored correctly | inspection, test | 2 |
+| 2.2 | Leaderboard is accurate and accessable | inspection | |
+| 2.3 | Gameplay is operational | analysis | 4 |
+| 2.4 | Database is stored and accessed correctly | inspection |  |
+
+<br>
 Testing
 
 | TestID | Req ID | Test Proc | Current | Date |
