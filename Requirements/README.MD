@@ -58,7 +58,7 @@ Testing
 
 | TestID | Req ID | Test Proc | Current | Date |
 | ------ | ------ | --------- | ------- | ---- |
-| 1      |  1.1,1.2,1.3 | User login, enter, view menus | not tested |  
-|
-|
-|
+| 1      |  1.1,1.2,1.3 | User login, enter, view menus | not tested |  |
+| 2      | 1.4, 2.1 | Complete game, enter auth, upload score | not tested | |
+| 3      | 2.1, 1.2 | User login, select view Leaderboard, validate scores are listed and can be filtered | not tested | |
+| 4      | 2.3 | Mock game scenario, place towers and spawn enemies, game should run independently of user regardless of setup | not tested | |
