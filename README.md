@@ -1,7 +1,8 @@
 # ClosedCircuit
 Personal Game Project for MSSA SD9<br>
 
-Table of Contents: <br>
+**Table of Contents:** <br>
+________________________________________________________________________________________________________________________________________________
 1. [Requirements](https://github.com/Makairo/ClosedCircuit/tree/main/Requirements) <br>
 2. [Prototype](https://github.com/Makairo/ClosedCircuit/tree/main/Prototype) <br>
 3. Description and Project Plan (below) <br>
