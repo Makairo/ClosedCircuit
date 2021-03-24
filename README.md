@@ -7,6 +7,8 @@ ________________________________________________________________________________
 2. [Prototype](https://github.com/Makairo/ClosedCircuit/tree/main/Prototype) <br>
 3. Description and Project Plan (below) <br>
 ________________________________________________________________________________________________________________________________________________
+![UML DIAGRAM](WebsiteWireframe.jpeg)
+![UML DIAGRAM](WebsiteWireframe2.jpeg)
 
 I aim to create a single player top-down strategy tower defense game. In essence the player would choose a map to play on, and there will
 be a pathway going from the left side of the screen to the right. Enemies of varying strength, health, and speed would follow the pathway laid out, and if they 
