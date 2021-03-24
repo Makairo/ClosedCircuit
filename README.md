@@ -7,6 +7,7 @@ ________________________________________________________________________________
 2. [Prototype](https://github.com/Makairo/ClosedCircuit/tree/main/Prototype) <br>
 3. Description and Project Plan (below) <br>
 ________________________________________________________________________________________________________________________________________________
+**Wireframe Examples:**<br>
 ![UML DIAGRAM](WebsiteWireframe.jpeg)
 ![UML DIAGRAM](WebsiteWireframe2.jpeg)
 
