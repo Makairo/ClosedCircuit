@@ -1,6 +1,6 @@
 # ClosedCircuit
 **Personal Game Project for MSSA SD9**<br>
-Beta for Project [Here](https://github.com/Makairo/ClosedCircuit-Beta)
+Beta for Project using ASP.NET [Here](https://github.com/Makairo/ClosedCircuit-Beta)
 
 **Table of Contents:** <br>
 ________________________________________________________________________________________________________________________________________________
